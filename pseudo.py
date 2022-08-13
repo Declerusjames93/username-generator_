@@ -87,8 +87,3 @@ r_names = read_list()
 print('List is', r_names)
 
 
-# print("My Fav username is : "+myfav_username)
-# mysecret_list=open("username.txt","a")
-# mysecret_list.write(myfav_username)
-# mysecret_list.close()
-# mysecret_list=open("username.txt",'r')
